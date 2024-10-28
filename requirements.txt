@@ -1,0 +1,12 @@
+scanpy
+louvain
+python-igraph
+ipywidgets
+pybiomart
+matplotlib
+pandas
+numpy
+scikit-learn
+jupyter
+anndata
+scipy
