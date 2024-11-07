@@ -8,6 +8,6 @@ pandas
 numpy
 scikit-learn
 jupyter
-anndata
+anndata==0.10.9
 scipy
 harmonypy
