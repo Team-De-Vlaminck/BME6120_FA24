@@ -5,7 +5,7 @@ ipywidgets
 pybiomart
 matplotlib
 pandas
-numpy==1.19.0
+numpy
 scikit-learn
 jupyter
 anndata==0.10.4
